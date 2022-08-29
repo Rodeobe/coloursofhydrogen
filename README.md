@@ -18,3 +18,11 @@ I'm active in the renewable energy field. I want to use this overview to share m
 - The red variant uses high-temperature catalytic cracking of water using thermal nuclear power as the energy source.
 
 And lastly, **White hydrogen** refers to naturally occurring hydrogen.
+
+##Contribute
+
+This is a crowdsourced list. So if you have comments, corrections, etc feel free to share them
+
+More importantly: if you like this webpage, share it! Like the project on GitHub, share it to your followers on your socials, or do a shootout to us. Thank you!
+##Interesting reads
+(wip)
