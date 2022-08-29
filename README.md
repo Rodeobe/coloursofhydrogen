@@ -12,8 +12,9 @@ I'm active in the renewable energy field. I want to use this overview to share m
 
 **Turquoise hydrogen** can be obtained by the thermal cracking of methane using methane pyrolysis. This process, although still in the experimental stage, removes carbon in solid form instead of CO2 gas.
 
-**Purple and Pink hydrogen** are obtained by using nuclear power. The Purple variant uses both the power and the heath, through combined chemothermal electrolysis and water splitting. The pink variant uses the nuclear electricity, produced by electrolysis.
-
-**Red hydrogen** is produced by the high-temperature catalytic cracking of water using thermal nuclear power as the energy source.
+**Purple, Pink and Red hydrogen** are obtained by using nuclear power:
+- The Purple variant uses both the nuclear power and the heath, through combined chemothermal electrolysis and water splitting. 
+- The pink variant uses the nuclear electricity, produced by electrolysis.
+- The red variant uses high-temperature catalytic cracking of water using thermal nuclear power as the energy source.
 
 And lastly, **White hydrogen** refers to naturally occurring hydrogen.
