@@ -1,4 +1,4 @@
-# Types of hydrogen based on the colour
+# Types of hydrogen and their "colour"
 
 I'm active in the renewable energy field. I want to use this overview to share my vision on the (hydrogen) future.
 
