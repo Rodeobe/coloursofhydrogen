@@ -1,8 +1,5 @@
 # United Colors of Hydrogen
 
-### Introduction
-I'm active in the renewable energy field. I want to use this overview to share my vision on the (hydrogen) future.
-
 Hydrogen is often categorized in colors (green, blue, etc) according to how it is produced. However, this "color coding" is not uniform or standardized. **The goal of this open project is to standardize this**.
 
 Read about [the principles](#Principles) of the code, how to [join the project](#Participate). 
@@ -25,6 +22,8 @@ Read about [the principles](#Principles) of the code, how to [join the project](
 And lastly, **White hydrogen** refers to naturally occurring hydrogen. It can be found in underground deposits or as a byproduct of fracking.
 
 ### Contribute
+[I'm active in the renewable energy field](https://www.linkedin.com/in/mdeneckere/). I want to use this overview to share my vision on the (hydrogen) future.
+
 This is a crowdsourced list. So if you have comments, corrections, etc feel free to share them
 
 More importantly: if you like this webpage, share it! Like the project on GitHub, share it to your followers on your socials, or do a shootout to us. Thank you!
