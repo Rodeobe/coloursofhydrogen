@@ -12,7 +12,7 @@ Read about [the principles](#Principles) of the code, how to [join the project](
 
 **Black or brown hydrogen** is produced from coal. The colors black and brown refer to hard coal (black) and lignite (brown). Gasification of coal is one method of producing hydrogen. However, it is a very polluting process that produces CO2 and carbon monoxide as byproducts and releases them into the atmosphere.
 
-**Turquoise hydrogen** can be obtained by the thermal cracking of methane using methane pyrolysis. This process, although still in the experimental stage, removes carbon in solid form instead of CO2 gas.
+**Turquoise hydrogen** can be obtained by the thermal cracking ('pyrolysis') of methane. This process, although still in the experimental stage, removes carbon in solid form instead of CO2 gas.
 
 **Purple, Pink and Red hydrogen** are obtained by using nuclear power:
 - The Purple variant uses both the nuclear power and the heath, through combined chemothermal electrolysis and water splitting. 
