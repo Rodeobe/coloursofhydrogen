@@ -1,4 +1,5 @@
 # United Colors of Hydrogen
+Update 2024: the project was moved to [colorsofhydrogen.com](https://www.colorsofhydrogen.com)
 
 Hydrogen is often categorized in colors (green, blue, etc) according to how it is produced. However, this "color coding" is not uniform or standardized. **The goal of this open project is to standardize this**.
 
